@@ -17,9 +17,8 @@ Include the commands used in the Experiment.
 ### NAME: INESH N
  
 ## OUTPUT
-<img width="1917" height="986" alt="Screenshot 2026-07-30 080835" src="https://github.com/user-attachments/assets/982a2733-7111-41af-bd1b-6d2e9d124ce4" />
-<img width="1917" height="972" alt="Screenshot 2026-07-30 081013" src="https://github.com/user-attachments/assets/25d090f8-93ce-4eaf-9b2f-f24fca0cb06b" />
-<img width="1917" height="985" alt="Screenshot 2026-07-30 081038" src="https://github.com/user-attachments/assets/786203d4-6466-4c1d-9415-8a46262e4591" />
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/128195ea-50b5-48ba-91eb-5ba1503ba0dd" />
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/2fb56d46-771d-4adf-89c1-3db639896421" />
 <img width="1917" height="981" alt="Screenshot 2026-07-30 081256" src="https://github.com/user-attachments/assets/4a0a70ca-d410-49f4-a862-343b71841d36" />
 <img width="1916" height="976" alt="Screenshot 2026-07-30 081527" src="https://github.com/user-attachments/assets/adf5f42c-b855-47f3-93a9-7894d9c5db93" />
 <img width="1917" height="988" alt="Screenshot 2026-07-30 081709" src="https://github.com/user-attachments/assets/ab9f1892-842f-4a01-b742-232ca402831e" />
