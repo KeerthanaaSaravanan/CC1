@@ -13,8 +13,8 @@
 ## COMMANDS
 Include the commands used in the Experiment.
 
-### REG NUMBER: 212223220036
-### NAME: INESH N
+### REG NUMBER: 212223240070
+### NAME: KEERTHANA S
  
 ## OUTPUT
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/128195ea-50b5-48ba-91eb-5ba1503ba0dd" />
