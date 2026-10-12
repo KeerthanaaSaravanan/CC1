@@ -1,6 +1,6 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
   ## AIM
-       To Create an Account in AWS Set up a Root user and an IAM user.
+       To create an Amazon Web Services (AWS) account, configure the AWS Root User, create an Identity and Access Management (IAM) User, assign appropriate permissions, generate login credentials, and verify the IAM User's access to AWS services.
 ## PROBLEM STATEMENT
     AWS Identity and Access Management (IAM) is a service that allows administrators to securely manage access to AWS resources. This experiment demonstrates how to create a Root User, create IAM Users, assign permissions using IAM policies, and verify user access by signing in with different accounts.
 
@@ -10,6 +10,166 @@
  ### Steps 3: Assign the required permissions or add the IAM User to an IAM Group.
  ### Steps 4: Generate login credentials for the IAM User.
  ### Steps 5: Log in using the IAM User and verify the assigned permissions.
+ Start the experiment.
+
+
+
+Open a web browser and navigate to the official AWS website at https://aws.amazon.com/.
+
+
+
+Select the option to create an AWS account.
+
+
+
+Enter a valid email address, account name, and other requested registration details.
+
+
+
+Verify the email address and provide the required contact information.
+
+
+
+Enter the requested billing and payment information and complete any identity verification required by AWS.
+
+
+
+Select an appropriate support plan and complete the account registration process.
+
+
+
+Sign in to the AWS Management Console using the registered email address and Root User password.
+
+
+
+Complete any required multi-factor authentication (MFA) registration and verify that the account dashboard is accessible.
+
+
+
+Search for IAM (Identity and Access Management) in the AWS Management Console and open the IAM service.
+
+
+
+Navigate to the Users section in the IAM console.
+
+
+
+Select Create user and enter a suitable IAM User name, such as LabUser.
+
+
+
+Configure console access if the available workflow supports IAM User console credentials and console access is required for the experiment.
+
+
+
+Create the IAM User and configure its password or other required sign-in credentials.
+
+
+
+Navigate to User groups and create an IAM Group named LabReadOnlyGroup, if the group does not already exist.
+
+
+
+Attach an appropriate permissions policy to the group. For this experiment, use the AWS-managed ReadOnlyAccess policy to demonstrate read-only access across supported AWS services.
+
+
+
+Add LabUser to LabReadOnlyGroup and verify the group membership.
+
+
+
+If the console workflow does not create the credentials automatically, configure the required sign-in credentials using the available IAM options.
+
+
+
+Record the AWS account ID or account alias and the IAM sign-in URL required to access the account.
+
+
+
+Sign out of the Root User session.
+
+
+
+Open a fresh private or incognito browser window to avoid confusion between existing AWS sessions.
+
+
+
+Navigate to the IAM sign-in URL and enter the account ID or alias, IAM User name, and password.
+
+
+
+Complete any required password change or MFA verification.
+
+
+
+Verify that the IAM User can access the AWS Management Console.
+
+
+
+Open an AWS service permitted by the attached policy and verify that its resources can be viewed.
+
+
+
+If a suitable test resource is available, attempt an operation that requires write permissions and verify that the operation is denied.
+
+
+
+Review the assigned IAM policies and group membership to confirm that the permissions behave as expected.
+
+
+
+Sign out of the IAM User session and secure all credentials.
+
+
+
+Record the observed output and conclude that the experiment is successful if login and permission checks behave as expected.
+
+
+Open a browser and visit the official AWS website.
+
+
+
+Click Create an AWS Account or the equivalent sign-up option displayed on the page.
+
+
+
+Enter your email address and an AWS account name.
+
+
+
+Verify your email address using the verification code sent by AWS.
+
+
+
+Create a strong password for the Root User.
+
+
+
+Enter the required contact information, including country, address, and phone number.
+
+
+
+Complete the payment and identity-verification steps requested during registration.
+
+
+
+Select a support plan and submit the registration.
+
+
+
+Wait for AWS to complete account activation. Some accounts may require additional verification.
+
+
+
+Open the AWS Management Console and select Root user on the sign-in page.
+
+
+
+Enter the registered email address, password, and MFA code if prompted.
+
+
+
+Confirm that the AWS Management Console home page opens successfully.
 ## COMMANDS
 Include the commands used in the Experiment.
 
